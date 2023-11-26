@@ -1,0 +1,72 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <style>
+    .cd{
+        border: 1px solid black;
+        width:180px;
+        height:100px;
+        background-color: aqua;
+        text-align: center;
+        box-shadow: 5px 5px;
+        margin:1px 5px  10px;
+    }
+    .md{
+        background-color: blueviolet;
+        display: flex;
+        flex-wrap:wrap;
+        gap:5px;
+        border: 2px solid yellow;  
+        align-items: center; 
+        width: 1500px;
+        margin: 150px;
+    }
+
+    </style>
+</head>
+<body>
+<div class="md"> 
+  <div class="cd">MON</div>
+  <div class="cd">TUE</div>
+  <div class="cd">WED</div>
+  <div class="cd">THU</div>
+  <div class="cd">FRI</div>
+  <div class="cd">SAT</div>
+  <div class="cd">SUN</div>
+  <div class="cd">1</div>
+  <div class="cd">2</div>
+  <div class="cd">3</div>
+  <div class="cd">4</div>
+  <div class="cd">5</div>
+  <div class="cd">6</div>
+  <div class="cd">7</div>
+  <div class="cd">8</div>
+  <div class="cd">9</div>
+  <div class="cd">10</div>
+  <div class="cd">11</div>
+  <div class="cd">12</div>
+  <div class="cd">13</div>
+  <div class="cd">14</div>
+  <div class="cd">15</div>
+  <div class="cd">16</div>
+  <div class="cd">17</div>
+  <div class="cd">18</div>
+  <div class="cd">19</div>
+  <div class="cd">20</div>
+  <div class="cd">21</div>
+  <div class="cd">22</div>
+  <div class="cd">23</div>
+  <div class="cd">24</div>
+  <div class="cd">25</div>
+  <div class="cd">26</div>
+  <div class="cd">27</div>
+  <div class="cd">28</div>
+  <div class="cd">29</div>
+  <div class="cd">30</div>
+</div>
+</div>
+</body>
+</html>
